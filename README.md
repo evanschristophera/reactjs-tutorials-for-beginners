@@ -20,3 +20,4 @@ ssh -i ~/.ssh/github_rsa -T git@github.com
 
 - [Part 3 Creating A React Project](https://youtu.be/3NjfGNuWOg8?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
 - [Part 4 Understanding Significance Of React Project Files](https://youtu.be/MZfOqCx0s7s?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
+- [Part 5 How React App Works](https://youtu.be/DYNBBqlwL_o?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
