@@ -27,5 +27,9 @@ ssh -i ~/.ssh/github_rsa -T git@github.com
 - [Part 9 JSX](https://youtu.be/-6IJkmxfUug?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)j
 - [Part 10 Props In Functional Component](https://youtu.be/UPIBbxDDRHI?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
 - [Part 11 Props In A Class Based Component](https://youtu.be/o3biU6YIhjI?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
+- [Part 12 Immutability Of Props](https://youtu.be/uU5n0tbpG7Q?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
+
+    Props are immutable and, by definition, read only!!!
+
 ## General Notes
 ### Git Cheat
