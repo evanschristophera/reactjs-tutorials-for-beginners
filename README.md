@@ -31,5 +31,13 @@ ssh -i ~/.ssh/github_rsa -T git@github.com
 
     Props are immutable and, by definition, read only!!!
 
+- [Part 13 Props v/s State](https://youtu.be/opIzmB3PlsQ?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
+
+    State is an object that contains information that may change over the lifetime of a component.
+
+    State is Functional: useState Hook 
+    Class this.state
+
+    
 ## General Notes
 ### Git Cheat
