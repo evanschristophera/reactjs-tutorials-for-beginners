@@ -38,6 +38,11 @@ ssh -i ~/.ssh/github_rsa -T git@github.com
     State is Functional: useState Hook 
     Class this.state
 
+- [Part 14 Using State](https://youtu.be/dwkrKNBaQLI?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
+
+    State is an Object!!
+    
+
     
 ## General Notes
 ### Git Cheat
