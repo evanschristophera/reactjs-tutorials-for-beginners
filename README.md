@@ -24,7 +24,8 @@ ssh -i ~/.ssh/github_rsa -T git@github.com
 - [Part 6 Components In React](https://youtu.be/r57Jck10_-0?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
 - [Part 7 Functional Components In React](https://youtu.be/tQa1ml4kwlg?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
 - [Part 8 Class Components In React](https://youtu.be/owulDWGqJoM?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
-- [Part 9 JSX](https://youtu.be/-6IJkmxfUug?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
+- [Part 9 JSX](https://youtu.be/-6IJkmxfUug?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)j
+- [Part 10 Props In Functional Component](https://youtu.be/UPIBbxDDRHI?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
 
 ## General Notes
 ### Git Cheat
